@@ -4,17 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		5XLC+pMmaH9uicU7MufqSyQDXCs=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		rQCZN2GYrmAvcCFAUJfRBPSxx8E=
 		</data>
 		<key>Modules/Strahl.swiftmodule/Project/arm64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		eWRlxHT2+kxApDnAxaXwF0lEQ8s=
+		L+CD2d+HJombgp0tAxAsUouxqmc=
 		</data>
 		<key>Modules/Strahl.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		j8V4JDArKjlWvWLLFwrnR1EwtAM=
+		g2sFm8/iuGjikLFxEWwRU9o27us=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -63,14 +67,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sE8LxpzMYP/oH92sE3Ab+GzgNKD6UdshnzszHovs2Fw=
+			UvUNJs6F5BaCuQvILoL+SG3KEokrB9NuxT8ujLFPIkI=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fBh6Ozpj8W+4DPFbZuvnaArqK+pCBy4psE5/4RGdQVY=
+			dzkbPklvVibMf73qOY/SFdYc9CvZ/fWG1jkd8Pdkwc8=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
