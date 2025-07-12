@@ -6,15 +6,19 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		TkyHTNfEM4R27OfMDdZVMUqxjEA=
+		KeM3a7XCStahxfFC8DfzBwn8Pmg=
 		</data>
 		<key>Info.plist</key>
 		<data>
 		r2l1q2YlKIzNPlZDmmY53Y/Jujs=
 		</data>
+		<key>Modules/.DS_Store</key>
+		<data>
+		S7Dpw11P5ZbP8vo0Vo9EmU/uFO0=
+		</data>
 		<key>Modules/Strahl.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		+oWKxEGV7zqilcULMemkr5pl85k=
+		5CDZDRMI4TBz2szAEPMAq0+Deq0=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -43,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AV9zMZhCMzJhwcHHXQ0I8qNhy3amNxVQptRQtVduOow=
+			iyjhzOmrrQaa1APWKN+7YWZlJtWP0uAh7gUBqbeJsMM=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.abi.json</key>
