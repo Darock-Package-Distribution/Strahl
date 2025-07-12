@@ -1,0 +1,150 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.13.10 clang-1700.3.13.4)
+// swift-module-flags: -target arm64-apple-ios16.0 -enable-objc-interop -enable-library-evolution -parse-stdlib -swift-version 5 -enforce-exclusivity=checked -O -enable-upcoming-feature MemberImportVisibility -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name Strahl
+// swift-module-flags-ignorable:  -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
+import Foundation
+import Swift
+@objc @_hasMissingDesignatedInitializers @objcMembers public class StandardLibrary : ObjectiveC.NSObject {
+  @objc deinit
+}
+@objc @_hasMissingDesignatedInitializers @objcMembers public class TypeAnnotatedObject : ObjectiveC.NSObject {
+  @objc deinit
+}
+public typealias RunnerDetails = [Strahl.RunnerDetail]
+public struct RunnerDetail : Swift.Hashable, Swift.Codable {
+  indirect public enum ActionItem : Swift.Hashable, Swift.Codable {
+    case immediateInteger(Swift.Int)
+    case immediateDouble(Swift.Double)
+    case immediateString(Swift.String)
+    case immediateBool(Swift.Bool)
+    case immediateArray([Swift.String])
+    case valueOfVariable(Swift.String)
+    case memberOf(Strahl.RunnerDetail?, Swift.String)
+    case subscriptOf(Strahl.RunnerDetail, Strahl.RunnerDetail)
+    case infixOperatorResult(Strahl.RunnerDetail, Swift.String, Strahl.RunnerDetail)
+    case stringInterpolation([Strahl.RunnerDetail])
+    case updateVariable(Swift.String, Strahl.RunnerDetail)
+    case updateMember(Strahl.RunnerDetail, Strahl.RunnerDetail)
+    case topLevelStdlibFunctionCall(Swift.String, [Strahl.RunnerDetail])
+    case stdlibMemberFunctionCall(Strahl.RunnerDetail, [Strahl.RunnerDetail])
+    case ifBlock(Strahl.RunnerDetail, Strahl.RunnerDetails)
+    case ifElseBlock(Strahl.RunnerDetail, Strahl.RunnerDetails, Strahl.RunnerDetails)
+    case switchBlock(Strahl.RunnerDetail, [Strahl.RunnerDetail? : Strahl.RunnerDetails])
+    case undefined
+    public static func == (a: Strahl.RunnerDetail.ActionItem, b: Strahl.RunnerDetail.ActionItem) -> Swift.Bool
+    public func encode(to encoder: any Swift.Encoder) throws
+    public func hash(into hasher: inout Swift.Hasher)
+    public var hashValue: Swift.Int {
+      get
+    }
+    public init(from decoder: any Swift.Decoder) throws
+  }
+  public static func == (a: Strahl.RunnerDetail, b: Strahl.RunnerDetail) -> Swift.Bool
+  public func encode(to encoder: any Swift.Encoder) throws
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+  public init(from decoder: any Swift.Decoder) throws
+}
+extension Strahl.RunnerDetail : Swift.CustomStringConvertible {
+  public var description: Swift.String {
+    get
+  }
+}
+extension Strahl.RunnerDetail : Swift.CustomDebugStringConvertible {
+  public var debugDescription: Swift.String {
+    get
+  }
+}
+@objc @_inheritsConvenienceInitializers @objcMembers final public class StdlibObjects : ObjectiveC.NSObject {
+  @objc final public var feedback: Strahl.StdlibObjects.FeedbackObject
+  @objc final public var reply: Strahl.StdlibObjects.ReplyObject
+  @objc override dynamic public init()
+  @objc public init(feedback: Strahl.StdlibObjects.FeedbackObject, reply: Strahl.StdlibObjects.ReplyObject)
+  @objc @_inheritsConvenienceInitializers @objcMembers final public class FeedbackObject : ObjectiveC.NSObject {
+    @objc final public var _feedbackKeyPair: [Swift.String : Swift.String]
+    @objc final public var title: Swift.String
+    @objc override dynamic public init()
+    @objc public init(keyPair: [Swift.String : Swift.String], title: Swift.String)
+    @objc deinit
+  }
+  @objc @_inheritsConvenienceInitializers @objcMembers final public class ReplyObject : ObjectiveC.NSObject {
+    @objc final public var _replyKeyPair: [Swift.String : Swift.String]
+    @objc override dynamic public init()
+    @objc public init(keyPair: [Swift.String : Swift.String])
+    @objc deinit
+  }
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class FrontendFlags {
+  public static var stripDebugInfo: Swift.Bool
+  @objc deinit
+}
+public struct Diagnostic {
+  public enum Level : Swift.String {
+    case warning
+    case error
+    #if compiler(>=5.3) && $NonescapableTypes
+    public init?(rawValue: Swift.String)
+    #endif
+    public typealias RawValue = Swift.String
+    public var rawValue: Swift.String {
+      get
+    }
+  }
+}
+extension Swift.Array : @retroactive Swift.Error where Element == Strahl.Diagnostic {
+}
+extension Strahl.Diagnostic : Swift.CustomStringConvertible {
+  public var description: Swift.String {
+    get
+  }
+}
+extension Strahl.Diagnostic : Swift.CustomDebugStringConvertible {
+  public var debugDescription: Swift.String {
+    get
+  }
+}
+public class RunnerContext {
+  public init()
+  public init(variables: [Swift.String : Any] = [:], objects: Strahl.StdlibObjects = .init(), replyNowHandler: @escaping () -> Swift.Void = {})
+  public var variables: [Swift.String : Any]
+  public var objects: Strahl.StdlibObjects
+  public var attentionNeeded: Swift.Bool
+  public var replyNowHandler: () -> Swift.Void
+  @objc deinit
+}
+extension Strahl.StandardLibrary {
+  @objc dynamic public func terminate() -> Strahl.TypeAnnotatedObject
+  @objc dynamic public func replyNow()
+  @objc dynamic public func setAttentionNeeded(_ attentionNeeded: Any)
+  @objc dynamic public func getMajorVersion(_ rawString: Any) -> Foundation.NSNumber
+}
+@_hasMissingDesignatedInitializers public class StrahlFrontend {
+  public static let shared: Strahl.StrahlFrontend
+  public func astDescription(for code: Swift.String) -> Swift.String
+  public func diagnostics(for code: Swift.String) -> [Strahl.Diagnostic]
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func compileRunnerDetails(for code: Swift.String, newDiagnosticHandler: (Strahl.Diagnostic) -> Swift.Void = { _ in }) -> Strahl.RunnerDetails?
+  #endif
+  @discardableResult
+  public func compileAndRun(for code: Swift.String, context: Strahl.RunnerContext, newDiagnosticHandler: (Strahl.Diagnostic) -> Swift.Void = { _ in }) -> Swift.Bool
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class StrahlVersion {
+  public static let languageVersion: Swift.String
+  public static var runtimeChainVersion: Swift.String {
+    get
+  }
+  public static var target: Swift.String {
+    get
+  }
+  public static var description: Swift.String {
+    get
+  }
+  @objc deinit
+}
+extension Strahl.Diagnostic.Level : Swift.Equatable {}
+extension Strahl.Diagnostic.Level : Swift.Hashable {}
+extension Strahl.Diagnostic.Level : Swift.RawRepresentable {}
