@@ -6,7 +6,7 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		ye52693rPmxI8AtQt6j/OwhvmMg=
+		seqcI9k75D5mjCnLTGugOVyYY9o=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/Project/arm64-apple-watchos.swiftsourceinfo</key>
 		<data>
-		agpH9TbOk6/jolRuTk14VGik2nU=
+		b7TB9DVtQVILqIKn7pKb4l6w3no=
 		</data>
 		<key>Modules/Strahl.swiftmodule/Project/arm64_32-apple-watchos.swiftsourceinfo</key>
 		<data>
-		vwsbi7qOP2G9jlNtXy8r8t9aHcY=
+		gxVo7UaKPjTY5XH3ioLTii04keY=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos.abi.json</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos.private.swiftinterface</key>
 		<data>
-		hovIoJ6aMJawFzfGC2Azy7z8mbE=
+		pfA+Zp4XqsWhm8NtCJRJIGPVVt0=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos.swiftinterface</key>
 		<data>
-		hovIoJ6aMJawFzfGC2Azy7z8mbE=
+		pfA+Zp4XqsWhm8NtCJRJIGPVVt0=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos.swiftmodule</key>
 		<data>
-		1ggOUuzAuhgrtnYvJe9T4GAU3Ac=
+		A7vITbi6+Wn+/NvYqz+Lo0ljz0U=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64_32-apple-watchos.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64_32-apple-watchos.private.swiftinterface</key>
 		<data>
-		GEuHcx4rMVMTq0LMBhugp5CnC1s=
+		+ZzAuk3VwT1sTIy7yTsjVYha6Hg=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64_32-apple-watchos.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64_32-apple-watchos.swiftinterface</key>
 		<data>
-		GEuHcx4rMVMTq0LMBhugp5CnC1s=
+		+ZzAuk3VwT1sTIy7yTsjVYha6Hg=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64_32-apple-watchos.swiftmodule</key>
 		<data>
-		S9XSpUjnI982RmEFCEGz8C2PB9Q=
+		ynyLAHd4WnLPAVA8g/FlQVmrIYY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -67,22 +67,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			agpH9TbOk6/jolRuTk14VGik2nU=
+			b7TB9DVtQVILqIKn7pKb4l6w3no=
 			</data>
 			<key>hash2</key>
 			<data>
-			BebNrhgbR9mxeG58huxlaRhWQuM/TdV783mrQhG6WP0=
+			eLZL58N2kzWwuaC00jVth4rqAp4aPQN2AG1vc1TwHMw=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/Project/arm64_32-apple-watchos.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vwsbi7qOP2G9jlNtXy8r8t9aHcY=
+			gxVo7UaKPjTY5XH3ioLTii04keY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y+7N3u7e89VgoB805VjRsqeRQV5/NiKh6cN6Pi9WwzI=
+			n38E0wAEgWRRAG51CCXdqTdmxk6BFXT5h79He3YPUno=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos.abi.json</key>
@@ -100,11 +100,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hovIoJ6aMJawFzfGC2Azy7z8mbE=
+			pfA+Zp4XqsWhm8NtCJRJIGPVVt0=
 			</data>
 			<key>hash2</key>
 			<data>
-			SjLl3tExieDCCD0Qw7j6Asb9byftb8mt+mFQvL7UqL0=
+			yDnh91AAZdoYSXZm7ms6dw16icQUY+SaCElgSQDSRIY=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos.swiftdoc</key>
@@ -122,22 +122,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hovIoJ6aMJawFzfGC2Azy7z8mbE=
+			pfA+Zp4XqsWhm8NtCJRJIGPVVt0=
 			</data>
 			<key>hash2</key>
 			<data>
-			SjLl3tExieDCCD0Qw7j6Asb9byftb8mt+mFQvL7UqL0=
+			yDnh91AAZdoYSXZm7ms6dw16icQUY+SaCElgSQDSRIY=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1ggOUuzAuhgrtnYvJe9T4GAU3Ac=
+			A7vITbi6+Wn+/NvYqz+Lo0ljz0U=
 			</data>
 			<key>hash2</key>
 			<data>
-			H7qPzLEaZTksNy99wYx/IYBL0uJhmrn4NsXf1nIi7GM=
+			1IpiHhBJRl7KR1+m/loNvWBrH5oJHfGUAhsdlWHR7vo=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64_32-apple-watchos.abi.json</key>
@@ -155,11 +155,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GEuHcx4rMVMTq0LMBhugp5CnC1s=
+			+ZzAuk3VwT1sTIy7yTsjVYha6Hg=
 			</data>
 			<key>hash2</key>
 			<data>
-			kJGhvfnAw9hfiLjkIbJ5lcgur4WYPi/ZVfBmjSfvtPY=
+			glGJau4XKzzRru0thOOxAv2ys4eqnDFbsVYxRMzucE0=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64_32-apple-watchos.swiftdoc</key>
@@ -177,22 +177,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GEuHcx4rMVMTq0LMBhugp5CnC1s=
+			+ZzAuk3VwT1sTIy7yTsjVYha6Hg=
 			</data>
 			<key>hash2</key>
 			<data>
-			kJGhvfnAw9hfiLjkIbJ5lcgur4WYPi/ZVfBmjSfvtPY=
+			glGJau4XKzzRru0thOOxAv2ys4eqnDFbsVYxRMzucE0=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64_32-apple-watchos.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			S9XSpUjnI982RmEFCEGz8C2PB9Q=
+			ynyLAHd4WnLPAVA8g/FlQVmrIYY=
 			</data>
 			<key>hash2</key>
 			<data>
-			UOZwt2KDDO3mIcc2PX32H01oIsqCbd1qh/DgI/2jpLc=
+			k0AfttQ4V47X1Az/oiOzxRW15DgDrf43sOcmIjHvetM=
 			</data>
 		</dict>
 	</dict>

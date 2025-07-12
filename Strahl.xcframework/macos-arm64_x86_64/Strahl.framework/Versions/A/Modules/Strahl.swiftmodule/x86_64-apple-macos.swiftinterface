@@ -82,6 +82,11 @@ extension Strahl.RunnerDetail : Swift.CustomDebugStringConvertible {
   @objc deinit
 }
 public struct Diagnostic {
+  public var level: Strahl.Diagnostic.Level
+  public var line: Swift.Int
+  public var column: Swift.ClosedRange<Swift.Int>
+  public var message: Swift.String
+  public var notes: [Swift.String]?
   public enum Level : Swift.String {
     case warning
     case error

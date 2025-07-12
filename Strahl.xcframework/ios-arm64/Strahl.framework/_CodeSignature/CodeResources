@@ -14,7 +14,7 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		FP5/Tgf/6RHsWh91nhyhEj/epzM=
+		+oWKxEGV7zqilcULMemkr5pl85k=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		5lxTPvapuWW2yFEwb/ymkZndAwY=
+		ybRn3vFWrADyXevQnu0C6XgoltI=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		5lxTPvapuWW2yFEwb/ymkZndAwY=
+		ybRn3vFWrADyXevQnu0C6XgoltI=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		r403DWjkn2AjlsO9f2U9M70q1Gg=
+		GQv0itynheedAim3m69TyZiiaRs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -43,7 +43,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3AlrTanx/Dr9Se7lhjz0lCe2KKXPua+zebOtFg2D164=
+			AV9zMZhCMzJhwcHHXQ0I8qNhy3amNxVQptRQtVduOow=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -57,7 +57,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2+aIjb7wgKjpU5rOYN1kBJq5dNHFmzlwa8txdzjEEYQ=
+			uoBZg/SF3EMLOU8fl2RyflIXQXQLfkSwZj8IN/oylCg=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -71,14 +71,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2+aIjb7wgKjpU5rOYN1kBJq5dNHFmzlwa8txdzjEEYQ=
+			uoBZg/SF3EMLOU8fl2RyflIXQXQLfkSwZj8IN/oylCg=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BUVKGiS1dJzkZl9N33tBn5e8Nv7luqacjO8uych0zvo=
+			+FkBijG1+rjKNhhQt88SzffWELKpKPnArDcfpyU2yJ4=
 			</data>
 		</dict>
 	</dict>
