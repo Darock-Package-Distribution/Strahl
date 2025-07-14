@@ -6,23 +6,19 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		yC2u75sGzaR0YVZuT3gM3g70wFQ=
+		na887xZWQ3Wt2gG12lJGJ04or24=
 		</data>
 		<key>Info.plist</key>
 		<data>
 		rQCZN2GYrmAvcCFAUJfRBPSxx8E=
 		</data>
-		<key>Modules/.DS_Store</key>
-		<data>
-		xfq8/cenciDNFP9DDWkcYatT5yw=
-		</data>
 		<key>Modules/Strahl.swiftmodule/Project/arm64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		KARPxLxRgpmLEwO7DcGPffeAbUo=
+		7YHoGE8QfVVDK2Xwv8OiZYuqzNw=
 		</data>
 		<key>Modules/Strahl.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		34PwZGdgk4IXBbjoiekRO/IJ+2c=
+		p1fJ+tvXM+khTjUvV8G0q24oKzs=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -30,7 +26,7 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		nsbXKM2JCdtB3wHAEHIwNJ2ddlc=
+		CYKrxyG3rwOTUvjC9gjk8QcZ0nk=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<data>
@@ -38,11 +34,11 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		nsbXKM2JCdtB3wHAEHIwNJ2ddlc=
+		CYKrxyG3rwOTUvjC9gjk8QcZ0nk=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		Vht3GeEO/dZaI/qc6zVj8hZBMDk=
+		LM80tapOo5Op4XonNwxU78tJ+tU=
 		</data>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -50,7 +46,7 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		GyOFx7QlnlvE7ppkbVGPiD8jkqE=
+		rNE86BRPN03iaTebUVRfCDOGTrQ=
 		</data>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<data>
@@ -58,11 +54,11 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		GyOFx7QlnlvE7ppkbVGPiD8jkqE=
+		rNE86BRPN03iaTebUVRfCDOGTrQ=
 		</data>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		FLbXmlmEc87e1rjytgyMp3RFY78=
+		b6RK6WeEkAml9wqyNTg4YM9Nwxg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -71,14 +67,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HfdJWuWJOQc7l+VOwsEXtbVRm2x/xIn6BD1AvNGwNO8=
+			fOsO2B/CvFs3nUNugrNzBJoOnFqkssWOxEUipYAuoFs=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y+EQ49xcqcGhahUQJF2bbxDIeQJYePb4HhVYchKMIQ8=
+			Se2GDXhQz0L7+ISVRWcZ5X32BPiKv2xIj+Ux5fzwh6w=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
@@ -92,7 +88,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Tvm/yDKHMc4iQG2EpVwd1NJG/19R7Rj8QYppGZpMVE=
+			zc0ch9Ty2OzluFLHg9deGVSonxK7bqyN3Al6n38KByM=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
@@ -106,14 +102,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Tvm/yDKHMc4iQG2EpVwd1NJG/19R7Rj8QYppGZpMVE=
+			zc0ch9Ty2OzluFLHg9deGVSonxK7bqyN3Al6n38KByM=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			c/GbQjavdeMfiUu3ZL3/+cYcCA6pqNt7yRBtnzzi2qY=
+			1ktKqVGjqZz5Y4AsI9M+JuKJ4Gv3oxlNvbgpWj965ng=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
@@ -127,7 +123,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZyNh8xZz1pjugNXotmmhhKzgCBLwB55USMo3IA912hE=
+			diGzCWMarcsrdR5cdrYMupRVidR7GgH2KTPkmCUkj7c=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
@@ -141,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZyNh8xZz1pjugNXotmmhhKzgCBLwB55USMo3IA912hE=
+			diGzCWMarcsrdR5cdrYMupRVidR7GgH2KTPkmCUkj7c=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hz/Ly0/hDpER3Wbp5FTQxQ6AKyffhk5scgUYcXtY4QA=
+			6zK+qSWDXUnHvzcBkAhoP3fqwYZypGTrr5rZhLEvNzY=
 			</data>
 		</dict>
 	</dict>

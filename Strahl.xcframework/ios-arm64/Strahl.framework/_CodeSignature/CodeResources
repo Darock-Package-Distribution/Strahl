@@ -6,19 +6,15 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		l3o+tIL9nVciJzhQ71LP5bszY/U=
+		UF0pTdQ4Hqw75TDQOxqML98bXg8=
 		</data>
 		<key>Info.plist</key>
 		<data>
 		r2l1q2YlKIzNPlZDmmY53Y/Jujs=
 		</data>
-		<key>Modules/.DS_Store</key>
-		<data>
-		S7Dpw11P5ZbP8vo0Vo9EmU/uFO0=
-		</data>
 		<key>Modules/Strahl.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		SDpvEpOOxNuSrUwCuk5nZCb3BaY=
+		0xKCLLK+inns5L/CHsS8Qsk9acc=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -26,7 +22,7 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		ybRn3vFWrADyXevQnu0C6XgoltI=
+		E3U/DtEnPVpSA4cJ1vvK7H4BZxI=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +30,11 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		ybRn3vFWrADyXevQnu0C6XgoltI=
+		E3U/DtEnPVpSA4cJ1vvK7H4BZxI=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		GQv0itynheedAim3m69TyZiiaRs=
+		Px3OasMl2AVQVSu9b3Z44aNr9Hw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -47,7 +43,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aSzgj8gI8N6llEFa3kpcxcnbTmmMsMrPzzEfTKmIuqM=
+			r0mYO/isf1qp47B0JsUZlM0APIkkDYOXt0bYjJg2XzE=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -61,7 +57,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uoBZg/SF3EMLOU8fl2RyflIXQXQLfkSwZj8IN/oylCg=
+			dQGCGH4xI3f3aA3QdaALRlSrnqN/tbEL33VFiXjs67A=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -75,14 +71,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uoBZg/SF3EMLOU8fl2RyflIXQXQLfkSwZj8IN/oylCg=
+			dQGCGH4xI3f3aA3QdaALRlSrnqN/tbEL33VFiXjs67A=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+FkBijG1+rjKNhhQt88SzffWELKpKPnArDcfpyU2yJ4=
+			kEZ4cVdVI5lhiPZvm11jg22B164utdK+1KZta1KbrV8=
 			</data>
 		</dict>
 	</dict>

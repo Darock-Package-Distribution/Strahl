@@ -87,6 +87,7 @@ public struct Diagnostic {
   public var column: Swift.ClosedRange<Swift.Int>
   public var message: Swift.String
   public var notes: [Swift.String]?
+  public var sourceLines: [Swift.String]
   public enum Level : Swift.String {
     case warning
     case error
@@ -133,6 +134,7 @@ extension Strahl.StandardLibrary {
   #if compiler(>=5.3) && $NonescapableTypes
   public func compileRunnerDetails(for code: Swift.String, newDiagnosticHandler: (Strahl.Diagnostic) -> Swift.Void = { _ in }) -> Strahl.RunnerDetails?
   #endif
+  public func typeCheck(for code: Swift.String) -> [Strahl.Diagnostic]
   @discardableResult
   public func compileAndRun(for code: Swift.String, context: Strahl.RunnerContext, newDiagnosticHandler: (Strahl.Diagnostic) -> Swift.Void = { _ in }) -> Swift.Bool
   @objc deinit
