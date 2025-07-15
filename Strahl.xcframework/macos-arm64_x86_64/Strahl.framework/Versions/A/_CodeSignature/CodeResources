@@ -15,14 +15,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y5UKhH9ZpZ3N9ojksQ31gCeibLtRpJwMrgrmcWa8ftA=
+			ZxUalhd86YKWZPS+SCgOpq6gVm60eQ77j72YWlUYVsE=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			liCWWIDnWxtoaNGz9VDdKGdP+L+4kmlUslvS9jqGk3E=
+			seoUanEn1VisJLfSr+jA85XkBKgMNXpm9Xfj/A5aZHw=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-macos.abi.json</key>
@@ -36,7 +36,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DBcU/L3FZ7EEyf0GkrH266DtKfD0SwODcle1MdcnQiI=
+			TLzo5Jo2F88eab3sHAnIeqwewJAPgwKvdETIL0cFP5c=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-macos.swiftdoc</key>
@@ -50,14 +50,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DBcU/L3FZ7EEyf0GkrH266DtKfD0SwODcle1MdcnQiI=
+			TLzo5Jo2F88eab3sHAnIeqwewJAPgwKvdETIL0cFP5c=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oAtbqfJvZvJHkWUAWO2n+wj2o4B34DgsNIvTb0y90Uc=
+			bBrWM/qKdw2aOgY+Rnpw/2u9rb8T88kRnBqysCHmYR4=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-macos.abi.json</key>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ejQ47CuEuXppk4Ebmsiaqrp5fSz7QDbHbP8DNQweXl4=
+			8DoouXZwmlW1mW9WlOpvYSn+eicpNpjG6Gl1VhpJDes=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-macos.swiftdoc</key>
@@ -85,14 +85,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ejQ47CuEuXppk4Ebmsiaqrp5fSz7QDbHbP8DNQweXl4=
+			8DoouXZwmlW1mW9WlOpvYSn+eicpNpjG6Gl1VhpJDes=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s60rTztV2uPVwPRIfl6duI8HJBPIdiXzmLzkdTIcl+o=
+			pflS4eyDBWypUvv5/ESMsIj6i4P7ozKhRCf6A5qD6yQ=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>

@@ -15,14 +15,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zdCF49sbUP7Y2sxOUDDr0b65dt+4k69CRDSFuyviQEM=
+			60ejTwFot8OdwXLvJLtoI0qpN0Jw135CJCx/tb6y6PQ=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/Project/x86_64-apple-ios-macabi.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0yRHnqF5bT9qzv91Z8fTEX0irPqApPZkKQzvqBAcPf0=
+			UE7SwvTSf52yiILHo1bp55859JSsFdjpqv6Rg/Eh1oY=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
@@ -36,7 +36,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			16nym1aFz3BXgsgeDPd/VltURp8Bvp0MeHgHrCy/iTw=
+			pKcbdl+BrYrVwJP0egm/tz1xgygVf+cslC/kkFmKDbs=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -50,14 +50,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			16nym1aFz3BXgsgeDPd/VltURp8Bvp0MeHgHrCy/iTw=
+			pKcbdl+BrYrVwJP0egm/tz1xgygVf+cslC/kkFmKDbs=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Jh0rlR8q+JIevREkILzQ5Udv90Kcm+nDo26zp338q8=
+			yioJLg9yA+s01eA9rcez/qoLp2b7kQZ/cc0Nfs8uuxE=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			owvYjc23oMuImeJMkDUHdyHRaPl8SRWCpKZfJO4R7b4=
+			BKTyjdURlx+Pq4cOBE6qnZAGJzhwe3sR2d9Lt4ADah8=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -85,14 +85,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			owvYjc23oMuImeJMkDUHdyHRaPl8SRWCpKZfJO4R7b4=
+			BKTyjdURlx+Pq4cOBE6qnZAGJzhwe3sR2d9Lt4ADah8=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qIvrBFmclHpS1VNFhgIdeqFWBBK3ICHa48yOg3+iTvs=
+			4Lsi199XvJKG2KP8R6QOpYbc/pDZYe4xYIjN1aOvsWc=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
