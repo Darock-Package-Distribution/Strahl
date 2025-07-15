@@ -126,6 +126,7 @@ extension Strahl.StandardLibrary {
   @objc dynamic public func replyNow()
   @objc dynamic public func setAttentionNeeded(_ attentionNeeded: Any)
   @objc dynamic public func getMajorVersion(_ rawString: Any) -> Foundation.NSNumber
+  @objc dynamic public func evaluateJavaScript(_ input: Any) -> Strahl.TypeAnnotatedObject
 }
 @_hasMissingDesignatedInitializers public class StrahlFrontend {
   public static let shared: Strahl.StrahlFrontend

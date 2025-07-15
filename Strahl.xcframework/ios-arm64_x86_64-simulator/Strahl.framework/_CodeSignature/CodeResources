@@ -6,7 +6,7 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		9JHPSMmJQ9JD0RS+rbuB7eYYog4=
+		9k3AppJ2sQPlcH6aL3MrTRGptJU=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		PNXNQfULLyCIgh4M9lSH/3m3l8k=
+		dVjPhH+vVpxh7+zTYWu22u+VIR8=
 		</data>
 		<key>Modules/Strahl.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		laKRB/gePKLB97kdQe6OFLOqY5k=
+		50P0R5b3AoT33HeSWxhq59eYwmI=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		34Gwjs8sGvNWJSGip3SeMR+Lrak=
+		w9J103eYxl6cQH+YMdruR3VI79s=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		34Gwjs8sGvNWJSGip3SeMR+Lrak=
+		w9J103eYxl6cQH+YMdruR3VI79s=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		f7CZUUiZgRcg/ggC7KHHoY6TRaU=
+		XUArnW1wHQpD41zUBCKqaJHvRuc=
 		</data>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		MthXm9VwgoQ2k9D/s/tXO+q/o6k=
+		rOybCh531M3N/2HIbqHmO49ZEAQ=
 		</data>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		MthXm9VwgoQ2k9D/s/tXO+q/o6k=
+		rOybCh531M3N/2HIbqHmO49ZEAQ=
 		</data>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jyiVTVcX44SYp47afcO4ADbxcBA=
+		n+fPOJCuuCaBWk7FKVECly6T2gw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -67,14 +67,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oT5ld35PHko/07CF0gkJufNLFafpssthDhJaLL2rM7M=
+			0ENSWaR/5THjDtTsSkEtkOzABsRxhdg4xPKJPr1uD40=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G/o8ViQxtHchyzHmg6A/P59vUNmj+OG9Npbk3XQlgSo=
+			HlCzrxxwZ/aS+T854w02aH4WNi9wgjkurZ/T6/jF3dM=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -88,7 +88,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PX24Dbd+lA7kvT8+HarcriqveH4sZxbYPleRyGnSwsU=
+			wiifkvYYgu4VKeN9pSdyv17DLZi4Z2e7T1ojDI7mDIQ=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,14 +102,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PX24Dbd+lA7kvT8+HarcriqveH4sZxbYPleRyGnSwsU=
+			wiifkvYYgu4VKeN9pSdyv17DLZi4Z2e7T1ojDI7mDIQ=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7t2UD8Y/Z1Mfosht2KH9E+Gfs3t8SIXY0zD+jJ6JH5U=
+			eoMD9EAMF6NTbbIPUTARYDyseiiv9/pcwvfSoZIkVP8=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -123,7 +123,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2WLOOMOmpFncSGXNZ51tXLwZaFCS1qHgKUQBIZFpG0Y=
+			Go1tEAbr3s+PEs7qLunhi+C71Lph36QHbmBweVY+PXo=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2WLOOMOmpFncSGXNZ51tXLwZaFCS1qHgKUQBIZFpG0Y=
+			Go1tEAbr3s+PEs7qLunhi+C71Lph36QHbmBweVY+PXo=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HgaEVs1SAE0reYDGNwQPGd1Cs0tsqdtyhX+2OLE4cpw=
+			op6fCC/oUQdaotuQeI/rmpKAowW4euDpCJmFCO4e6e0=
 			</data>
 		</dict>
 	</dict>

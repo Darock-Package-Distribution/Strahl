@@ -6,7 +6,7 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		na887xZWQ3Wt2gG12lJGJ04or24=
+		CPJA+lU2xW6YOcfvuvsrdU1r6mk=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/Project/arm64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		vglOska8S9w088eOd39ONSSYlCo=
+		C5kLNWlq1nfx9aDJoEj0ci/7Msk=
 		</data>
 		<key>Modules/Strahl.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		BhI68f1ley9TSKAWLU0SZAWHaA4=
+		n5MZ2tA+0j1LJr2RRiX2z0Q4mNk=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		CYKrxyG3rwOTUvjC9gjk8QcZ0nk=
+		OY0Kb/vgonLU1GzqGUDLLF4sK0s=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		CYKrxyG3rwOTUvjC9gjk8QcZ0nk=
+		OY0Kb/vgonLU1GzqGUDLLF4sK0s=
 		</data>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		LM80tapOo5Op4XonNwxU78tJ+tU=
+		Yy8w9CL0KjCllh0J7ObnsGRDzgg=
 		</data>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
 		<data>
-		rNE86BRPN03iaTebUVRfCDOGTrQ=
+		peZ01p7IGe7T/4fw3zovbl4dAsE=
 		</data>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
 		<data>
-		rNE86BRPN03iaTebUVRfCDOGTrQ=
+		peZ01p7IGe7T/4fw3zovbl4dAsE=
 		</data>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		b6RK6WeEkAml9wqyNTg4YM9Nwxg=
+		y7uQyiGTVakkkkibL19TMjPLTQY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -67,14 +67,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bhPb6aMVA1V8OBnTYdW8yKMgrWwYOGdA6OtPnCRbesk=
+			m0ZCo0pE5nNGcvbZ9TaK3R0BqMCu8woyEoYaLpmOgr0=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			suGAFNRWmyUc+/s916Xig9pl1NS5UQovwlAf/A6CGLE=
+			Vcf398DfeEG5FvzrsJUKBhoX/r0Qt1CLiRjz58YnA8g=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
@@ -88,7 +88,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zc0ch9Ty2OzluFLHg9deGVSonxK7bqyN3Al6n38KByM=
+			La9bYw6H4vofbUSy63vzPAzhnhwQlxQc2TVCihws+to=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
@@ -102,14 +102,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zc0ch9Ty2OzluFLHg9deGVSonxK7bqyN3Al6n38KByM=
+			La9bYw6H4vofbUSy63vzPAzhnhwQlxQc2TVCihws+to=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1ktKqVGjqZz5Y4AsI9M+JuKJ4Gv3oxlNvbgpWj965ng=
+			w0tFMgn/adLJSDcLvons5gkwpPQZztXqtmG9cJ7K+34=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
@@ -123,7 +123,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			diGzCWMarcsrdR5cdrYMupRVidR7GgH2KTPkmCUkj7c=
+			HKvslVsjYzZFwuLLajLNtVzxyF4qen3eSC0XtR/7EHo=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			diGzCWMarcsrdR5cdrYMupRVidR7GgH2KTPkmCUkj7c=
+			HKvslVsjYzZFwuLLajLNtVzxyF4qen3eSC0XtR/7EHo=
 			</data>
 		</dict>
 		<key>Modules/Strahl.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6zK+qSWDXUnHvzcBkAhoP3fqwYZypGTrr5rZhLEvNzY=
+			n7cl/L62wWU19EwE+ieY3M2UqCylXmCq2i8kQmHVDm4=
 			</data>
 		</dict>
 	</dict>
